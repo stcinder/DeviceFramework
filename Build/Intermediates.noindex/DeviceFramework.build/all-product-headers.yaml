@@ -1,0 +1,68 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/cinder/Cocoa/64Bit/Monitor Modules/DeviceFramework/Build/Products/Users/cinder/Cocoa/64Bit/Monitor2 Modular/Monitor2/Frameworks/Debug/DeviceFramework.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Device.h",
+          'external-contents': "/Users/cinder/Cocoa/64Bit/Monitor Modules/DeviceFramework/DeviceFramework/Device.h"
+        },
+        {
+          'type': 'file',
+          'name': "DeviceFramework-Swift.h",
+          'external-contents': "/Users/cinder/Cocoa/64Bit/Monitor Modules/DeviceFramework/Build/Products/Users/cinder/Cocoa/64Bit/Monitor2 Modular/Monitor2/Frameworks/Debug/DeviceFramework.framework/Versions/A/Headers/DeviceFramework-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "DeviceFramework.h",
+          'external-contents': "/Users/cinder/Cocoa/64Bit/Monitor Modules/DeviceFramework/DeviceFramework/DeviceFramework.h"
+        },
+        {
+          'type': 'file',
+          'name': "MOServiceParameter.h",
+          'external-contents': "/Users/cinder/Cocoa/64Bit/Monitor Modules/DeviceFramework/DeviceFramework/MOServiceParameter.h"
+        },
+        {
+          'type': 'file',
+          'name': "MOServiceParameterList.h",
+          'external-contents': "/Users/cinder/Cocoa/64Bit/Monitor Modules/DeviceFramework/DeviceFramework/MOServiceParameterList.h"
+        },
+        {
+          'type': 'file',
+          'name': "MOSyringePumpData.h",
+          'external-contents': "/Users/cinder/Cocoa/64Bit/Monitor Modules/DeviceFramework/DeviceFramework/MOSyringePumpData.h"
+        },
+        {
+          'type': 'file',
+          'name': "MOSyringePumpDataSet.h",
+          'external-contents': "/Users/cinder/Cocoa/64Bit/Monitor Modules/DeviceFramework/DeviceFramework/MOSyringePumpDataSet.h"
+        },
+        {
+          'type': 'file',
+          'name': "SyringePump.h",
+          'external-contents': "/Users/cinder/Cocoa/64Bit/Monitor Modules/DeviceFramework/DeviceFramework/SyringePump.h"
+        },
+        {
+          'type': 'file',
+          'name': "ValueKeys.h",
+          'external-contents': "/Users/cinder/Cocoa/64Bit/Monitor Modules/DeviceFramework/DeviceFramework/ValueKeys.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/cinder/Cocoa/64Bit/Monitor Modules/DeviceFramework/Build/Products/Users/cinder/Cocoa/64Bit/Monitor2 Modular/Monitor2/Frameworks/Debug/DeviceFramework.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/cinder/Cocoa/64Bit/Monitor Modules/DeviceFramework/Build/Intermediates.noindex/DeviceFramework.build/Debug/DeviceFramework.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

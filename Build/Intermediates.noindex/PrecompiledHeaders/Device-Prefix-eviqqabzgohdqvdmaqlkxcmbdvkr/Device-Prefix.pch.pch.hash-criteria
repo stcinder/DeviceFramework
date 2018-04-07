@@ -1,0 +1,33 @@
+-x
+objective-c
+-arch
+x86_64
+-std=gnu11
+-fobjc-arc
+-fmodules
+-gmodules
+-fmodules-cache-path=/Users/cinder/Library/Developer/Xcode/DerivedData/ModuleCache
+-fbuild-session-file=/Users/cinder/Library/Developer/Xcode/DerivedData/ModuleCache/Session.modulevalidation
+-fmodule-name=DeviceFramework
+-fpascal-strings
+-O0
+-fno-common
+-DDEBUG=1
+-DOBJC_OLD_DISPATCH_PROTOTYPES=0
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk
+-fasm-blocks
+-mmacosx-version-min=10.13
+-g
+-index-store-path
+/Users/cinder/Cocoa/64Bit/Monitor Modules/DeviceFramework/Index/DataStore
+-iquote
+-ivfsoverlay
+/Users/cinder/Cocoa/64Bit/Monitor Modules/DeviceFramework/Build/Intermediates.noindex/DeviceFramework.build/all-product-headers.yaml
+-iquote
+-I/Users/cinder/Cocoa/64Bit/Monitor Modules/DeviceFramework/Build/Products/Users/cinder/Cocoa/64Bit/Monitor2 Modular/Monitor2/Frameworks/Debug/include
+-F/Users/cinder/Cocoa/64Bit/Monitor Modules/DeviceFramework/Build/Products/Users/cinder/Cocoa/64Bit/Monitor2 Modular/Monitor2/Frameworks/Debug
+x86_64-apple-darwin17.4.0
+"4.2.1 Compatible Apple LLVM 9.0.0 (clang-900.0.39.2)"
+SDK_PRODUCT_BUILD_VERSION=17C76
+17C76

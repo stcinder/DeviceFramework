@@ -112,7 +112,7 @@
 {
     static NSString        *sohString = nil;
     if (nil == sohString)
-        sohString = [NSString stringWithFormat:@"%c",kRecordSeparator];
+        sohString = [NSString stringWithFormat:@"%c",kRecordSeparator];  
     return sohString;
 }
 
